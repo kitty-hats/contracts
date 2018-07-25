@@ -1,0 +1,118 @@
+{
+	"version": "1.0.0",
+	"networkId": "1",
+	"marketplaceAddress": "0xfc9ec868f4c8c586d1bb7586870908cca53d5f38",
+	"kittyCoreAddress": "0x06012c8cf97BEaD5deAe237070F9587f8E7A266d",
+	"categories": [
+		{
+			"displayName": "Hats",
+			"items": [
+				{
+					"name": "Top Hat",
+					"tokenAddress": "0xcd1b3ecffeacdcfc01054848225eb627bc9c590f",
+					"previewImage": "img/preview/tophat.svg",
+					"assetUrl": "img/asset/tophat.svg"
+				},
+				{
+					"name": "Trapper",
+					"tokenAddress": "0x8b3c87830bb23da1270803f92ff8ffa9d4a67338",
+					"previewImage": "img/preview/trapper.svg",
+					"assetUrl": "img/asset/trapper.svg"
+				},
+				{
+					"name": "Flat Brim",
+					"tokenAddress": "0x64e5e8fe8210bca8ad0571b4711d77161ac459a3",
+					"previewImage": "img/preview/flatbrim.svg",
+					"assetUrl": "img/asset/flatbrim.svg"
+				},
+				{
+					"name": "Tiara",
+					"tokenAddress": "0x2a7fa1308c075cf214e66c2caa67883da4fa508f",
+					"previewImage": "img/preview/tiara.svg",
+					"assetUrl": "img/asset/tiara.svg"
+				},
+				{
+					"name": "Tin Foil",
+					"tokenAddress": "0xf3126a961abc4cef0cefcb2510be431ce2782b7f",
+					"previewImage": "img/preview/tinfoil.svg",
+					"assetUrl": "img/asset/tinfoil.svg"
+				}
+			]
+		},
+		{
+			"displayName": "Accessories",
+			"items": [
+				{
+					"name": "Ethereum Collar",
+					"tokenAddress": "0x280a511ebad860e945e1829e2c8435748b05d147",
+					"previewImage": "img/preview/collar.svg",
+					"assetUrl": "img/asset/collar.svg"
+				},
+				{
+					"name": "iWatch",
+					"tokenAddress": "0x54616a975dec9256f8fe26a99b2fcd6affbf6eaf",
+					"previewImage": "img/preview/iwatch.svg",
+					"assetUrl": "img/asset/iwatch.svg"
+				},
+				{
+					"name": "Lei",
+					"tokenAddress": "0x5e064285ec172449a85643c2000a4f1b390e16c2",
+					"previewImage": "img/preview/lei.svg",
+					"assetUrl": "img/asset/lei.svg"
+				},
+				{
+					"name": "Mom Tattoo",
+					"tokenAddress": "0x96e617630c15c3a4b4fde32f6eec434ae31b392f",
+					"previewImage": "img/preview/momtat.svg",
+					"assetUrl": "img/asset/momtat.svg"
+				}
+			]
+		},
+		{
+			"displayName": "Glasses",
+			"items": [
+				{
+					"name": "Nerd Glasses",
+					"tokenAddress": "0x837e4831753e32437bac397cefc8da67f61a74e6",
+					"previewImage": "img/preview/nerd.svg",
+					"assetUrl": "img/asset/nerd.svg"
+				},
+				{
+					"name": "Wayfarers",
+					"tokenAddress": "0xb1df962bb6938deb7b27cdc01ea0b41395c5d426",
+					"previewImage": "img/preview/wayfarers.svg",
+					"assetUrl": "img/asset/wayfarers.svg"
+				},
+				{
+					"name": "Shutter Shades",
+					"tokenAddress": "0xda51c77380e3653189b65f3f3ffeec63d88f3ae8",
+					"previewImage": "img/preview/shutter.svg",
+					"assetUrl": "img/asset/shutter.svg"
+				}
+			]
+		},
+		{
+			"displayName": "Shoes",
+			"items": [
+				{
+					"name": "Mittens",
+					"tokenAddress": "0x944bf9dfee296df739a68b07e53c97df0396dbb3",
+					"previewImage": "img/preview/mittens.svg",
+					"assetUrl": "img/asset/mittens.svg"
+				},
+				{
+					"name": "Chucks",
+					"tokenAddress": "0xd822ca23fcdbf5569b3ce746a81f039b27240b35",
+					"previewImage": "img/preview/chucks.svg",
+					"assetUrl": "img/asset/chucks.svg"
+				},
+				{
+					"name": "Yeezy",
+					"tokenAddress": "0x6615f387e7bc610c11066cb1e534ab0f07ed8424",
+					"previewImage": "img/preview/shutter.svg",
+					"assetUrl": "img/asset/shutter.svg"
+				}
+			]
+		}
+	]
+}
